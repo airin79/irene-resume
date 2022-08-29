@@ -5,22 +5,18 @@
 -----------------------------------------------------------------------------------*/
 
 console.log("unregistering serviceworker");
-navigator.serviceWorker.getRegistrations().then(function (registrations) {
-  for (let registration of registrations) {
-    registration
-      .unregister()
-      .then(function () {
-        return self.clients.matchAll();
-      })
-      .then(function (clients) {
-        clients.forEach((client) => {
-          if (client.url && "navigate" in client) {
-            client.navigate(client.url);
-          }
-        });
+if ("serviceWorker" in navigator) {
+  navigator.serviceWorker.ready.then((registration) => {
+    registration.unregister();
+
+    if (caches) {
+      // Service worker cache should be cleared with caches.delete()
+      caches.keys().then(async (names) => {
+        await Promise.all(names.map((name) => caches.delete(name)));
       });
-  }
-});
+    }
+  });
+}
 
 jQuery(document).ready(function ($) {
   /*----------------------------------------------------*/
