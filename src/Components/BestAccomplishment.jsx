@@ -12,21 +12,24 @@ function BestAccomplishment(props) {
     <div>
       <button
         className="best-button"
+        title="My best achievement"
         onClick={onBestAccomplishment}
       >
         🏆
       </button>
 
       {showBest && (
-        <div >
-          {props.best.map((row, idx) => (
-            <p
-              key={idx}
-              className="work-description-row"
-              dangerouslySetInnerHTML={{ __html: row }}
-            ></p>
-          ))}
-        </div>
+       
+            <div className="best-div">
+              {props.best.map((row, idx) => (
+              <p
+                key={idx}
+                className="work-description-row"
+                dangerouslySetInnerHTML={{ __html: row }}
+              ></p>
+            ))}
+          </div>
+        
       )}
     </div>
   );
