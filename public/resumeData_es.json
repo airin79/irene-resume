@@ -78,7 +78,13 @@
         "Soy responsable de el software estratégico interno del Departamento de Electrónica para configurar y personalizar el software de los electrodomésticos",
         "Defino procesos, requisitos, análisis de datos y sw cue es mejor a cada necesidad", 
         "Líder de estandarizar las mejores prácticas y los mejores procesos entre diferentes organizaciones electrónicas de la empresa", 
-        "Plus: Embajador de la empresa: Responsable de crear un ambiente de trabajo positivo y productivo como miembro activo del Engagement Team, organizando actividades de equipo para mantener los empleados involucrados y comprometidos."
+        "➕ Embajador de la empresa: Responsable de crear un ambiente de trabajo positivo y productivo como miembro activo del Engagement Team, organizando actividades de equipo para mantener los empleados involucrados y comprometidos."
+      ], 
+      "bestaccomplishment": [
+        "<b>He creado el valor Cross Team Synergy</b>",
+        "Tenemos diferentes departamentos de electrónica en una misma empresa, uno para cada tipo de línea de producto. Como son autónomos, cada uno de ellos trabajaba sin visibilidad ni interés por cómo iban otros departamentos paralelos. Hicieron las cosas de manera diferente y, a menudo, un problema en un departamento también estaba sucediendo en otros. Estaban luchando por los mismos problemas, estaban replicando el mismo trabajo y la empresa estaba desperdiciando recursos.",
+        "Empecé a recopilar información y poner a la gente a trabajar en conjunto, permitiéndoles compartir sus procesos y mejores prácticas, su trabajo diario, sus problemas y logros con otros departamentos.",
+        "Pude poner a todos los departamentos trabajando juntos ya que se dieron cuenta del valor de trabajar como un Equipo de Equipos. Los departamentos siguen funcionando de forma autónoma y cada uno de ellos tiene su propia responsabilidad, ¡pero ahora pueden contar con los demás! Han pasado aproximadamente 4 años desde nuestro primer encuentro y todavía nos reunimos una vez al mes para crecer juntos."
       ]
      },
       {
@@ -94,13 +100,24 @@
         "Responsable de proveedores de HW y SW", 
         "Responsable de proyectos financiados con fondos europeos",
         "Responsable de aplicaciones de pruebas de Fin de Línea en fábricas"
-        ]
+      ], 
+      "bestaccomplishment": ["<b>Prueba de campo de nuestra nueva pizarra electrónica inteligente en 50 clientes de Estados Unidos</b>",
+      "Los técnicos no saben cuál es la parte rota de un electrodoméstico cuando son llamados por los clientes, por lo que deben regresar por segunda vez trayendo materiales. Esto es un desperdicio de energía.",
+      "Construimos un prototipo llamado -cubo- para conectar a todos y cada uno de los modelos de electrodomésticos para recopilar datos de las máquinas y, utilizando un analizador de datos de algoritmo inteligente, poder comprender qué parte de un dispositivo estaba rota e incluso predecir fallas.",
+      "Como fase final del proyecto, construimos el -cubo- que se instaló en 50 casas americanas.",
+      "Fui responsable de la -Prueba de campo- en todas las fases, desde la captación de clientes, los documentos de garantía y privacidad, la fase de instalación, la prueba de campo en sí, la asistencia al cliente, la recopilación y el análisis de datos.",
+      "El proyecto de prueba de campo le dio a mi empresa una gran visibilidad a la actual multinacional estadounidense que estaba trabajando con nosotros y después de esto se iniciaron otros proyectos muy importantes"
+      ]
+   
       },
       {
         "company": "Reale Mutua Ass.ni spa",
         "title": "Asistente de director 1999 - Jesi (AN)",
         "years": "Septiembre. 1999 - Marzo 2000",
-        "description": ["Asistente de director y contadora."]
+        "description": ["Asistente de director y contadora.", 
+        "Mi primera experiencia laboral, una pequeña oficina familiar. ¡Aprendí mucho trabajando en contacto con el público, volviéndome muy minuciosa y meticulosa desde el principio! Precisión y calidad del trabajo y tiempo justo."],
+        "bestaccomplishment":
+        ["Con mi experiencia en TI y conocimiento de las herramientas y aplicaciones SW más comunes he contribuido a la digitalización de esta pequeña empresa, automatizando muchas tareas que antes se realizaban manualmente, mejorando la precisión, los resultados y reduciendo drásticamente los tiempos."]
       }
     ],
     "skills": [

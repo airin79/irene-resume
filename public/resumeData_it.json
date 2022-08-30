@@ -77,7 +77,13 @@
         "Mi occupo della scritttura del codice ma anche di definizione processi, requisiti, analisi dati e strumenti che meglio si adattano alle situazioni da affrontare",
         "Leader della standardizzazione dei processi e metodologie tra le varie organizzazioni cross-elettrodomestico", 
         "Metodo di lavoro Customer oriented per raggiungere i traguardi aziendali comuni ai differenti dipartimenti",
-        "Plus : Company Ambassador : Responsibile della creazione e mantenimento di un ambiente positivo e produttivo sono membro attivo dell Engagement Team, organizzo attività di Team Building con lo scopo di mantenere committment e motivazione aziendale tra i dipendenti"
+        "➕ Company Ambassador : Responsibile della creazione e mantenimento di un ambiente positivo e produttivo sono membro attivo dell Engagement Team, organizzo attività di Team Building con lo scopo di mantenere committment e motivazione aziendale tra i dipendenti"
+      ],
+      "bestaccomplishment": [
+        "<b>Ho creato il valore Cross Team Synergy</b>",
+        "Abbiamo diversi reparti elettronici nella stessa azienda, uno per ogni tipo di linea di prodotti. Dal momento che sono autonomi, ognuno di loro lavorava senza visibilità o interesse per come stavano facendo gli altri reparti paralleli. Facevano le cose in modo diverso e spesso un problema in un dipartimento si verificava anche in altri. Stavano lottando sugli stessi problemi, stavano replicando lo stesso lavoro e l'azienda stava sprecando risorse.",
+        "Ho iniziato a raccogliere informazioni e mettere insieme le persone, consentendo loro di condividere i loro processi e le migliori pratiche, il loro lavoro quotidiano, i loro problemi e risultati, con altri dipartimenti.",
+        "Ho unito i dipartimenti poiché hanno capito il valore di lavorare come Team of Teams. I reparti lavorano ancora in autonomia e ognuno di loro ha le proprie responsabilità, ma ora possono contare sugli altri! Sono passati circa 4 anni dal nostro primo meeting e ci incontriamo ancora una volta al mese per crescere insieme."
       ]
      },
       {
@@ -93,13 +99,24 @@
         "Responsibile della gestione di fornitori HW e SW",
         "Responsibile di progetti europei (finanziamenti aziendali) ",
         "Responsibile di test End-of-Line nelle linee di produzione"
-        ]
+      ],
+      "bestaccomplishment": [
+      "<b>Field Test della nostra scheda elettronica in 50 united-states customers</b>",
+      "Technicians do not know which is the broken part of an appliance when they are called by customers, so they have to go back a second time bringing materials. This is a waste of energy. ",
+      "We built a prototype called ‘cube’ to connect to each and every model of appliance to collect data from machines and, using a smart algorithm data analyzer, to be able to understand which part of an appliance was broken and even predict faults.",
+      "As the final phase of the project, we built the ‘cube’ that was installed in 50 American houses. ",
+      "I was responsible for the ‘Field test’ in all the phases, from recruiting customers, assurance and privacy papers, installation phase, the field test itself, customer assistance, collection on analysis of data. ",
+      "The Field test project gave my company a huge visibility to the actual multinational american company that was working with us and different other projects were started after this."
+      ]
       },
       {
         "company": "Reale Mutua Ass.ni spa",
         "title": "Assistente personale 1999 - Jesi (AN)",
         "years": "Settembre 1999 - Marzo 2000",
-        "description": ["Assistente personale del direttore e segretaria."]
+        "description": ["Assistente personale del direttore e segretaria.", "La mia prima esperienza lavorativa, un piccolo ufficio a conduzione familiare. Ho imparato molto lavorando a contatto con il pubblico, diventando molto scrupolosa e meticolosa fin dall'inizio! Precisione e qualità del lavoro e tempi giusti."],
+        "bestaccomplishment": [
+          "Con la mia esperienza informatica e conoscenza dei piu comuni strumenti ed applicazioni SW ho contribuito alla digitalizzazione di questa piccola impresa, automatizzando molti compiti che prima venivano eseguiti manualmente, miglioranto precisione, risultati e diminuendo drasticamente i tempi."
+        ]
       }
     ],
     "skillmessage": "Sviluppatrice SW dal 2000 con piu di 20anni di C# C++ .Net in applicazioni desktop stand alone e Microsoft SQL Server databases ed al momento mi sto divertendo con il  WEB con JS React Entity Framework e GraphQL",

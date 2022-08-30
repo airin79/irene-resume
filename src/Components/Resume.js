@@ -1,3 +1,6 @@
+import React, { useState } from "react";
+import BestAccomplishment from "./BestAccomplishment";
+
 const Resume = (props) => {
   if (!props.data) return <p></p>;
 
@@ -31,7 +34,7 @@ const Resume = (props) => {
 
   const work = props.data.work.map(function (work) {
     return (
-      <div key={work.company}>
+      <div key={work.company} className="work-box">
         <h3 className="h3-resume">{work.company}</h3>
 
         <p className="info work-description">
@@ -39,10 +42,13 @@ const Resume = (props) => {
           <span>&bull;</span> <em className="date">{work.years}</em>
         </p>
         {work.description.map((row, idx) => (
-          <p key={idx} className="work-description-row">
-            {row}
-          </p>
+          <p
+            key={idx}
+            className="work-description-row"
+            dangerouslySetInnerHTML={{ __html: row }}
+          ></p>
         ))}
+        <BestAccomplishment key={work.company} best={work.bestaccomplishment} />
       </div>
     );
   });
@@ -102,16 +108,15 @@ const Resume = (props) => {
             <ul className="skills">{skills}</ul>
           </div>
         </div>
+      </div>
 
-        <div className="row work">
-          <div className="three columns header-col">
-            <h1>
-              <span>Work</span>
-            </h1>
-          </div>
-
-          <div className="nine columns main-col">{work}</div>
+      <div className="row work">
+        <div className="three columns header-col">
+          <h1>
+            <span>Work</span>
+          </h1>
         </div>
+        <div className="nine columns main-col">{work}</div>
       </div>
     </section>
   );

@@ -135,6 +135,28 @@ header .scrolldown a:hover { color: #11ABB0; }
    text-align: center;
 }
 
+.bold-label {
+   font-weight: bold;
+ }
+
+ .best-button{
+   margin: 0;
+   padding: 0;
+   min-width: 55px;
+   max-width:55px;
+ }
+
+ .work-box{
+   border-bottom: 1px #ddd solid;
+   padding-bottom: 10px;
+   margin-bottom: 50px;
+ }
+
+ .work-box:last-child{
+   border-bottom: 0;
+   padding-bottom: 0;
+   margin-bottom: 0;
+ }
 
 /* primary navigation
 --------------------------------------------------------------------- */
@@ -289,6 +311,12 @@ ul#nav li.current a { color: #F06000; }
    text-align: left;  
 }
 
+.work {
+   border-bottom: 0;
+   margin-bottom: 0;
+   padding-bottom: 5px;
+}
+
 .work-description{
    
    text-align: left;
@@ -318,8 +346,8 @@ ul#nav li.current a { color: #F06000; }
 #resume .info {
    font: 16px/24px 'librebaskerville-italic', serif;
    color: #6E7881;
-   margin-bottom: 18px;
-   margin-top: 9px;
+   margin-bottom: 5px;
+   margin-top: 5px;
 }
 #resume .info span {
    margin-right: 5px;
@@ -327,7 +355,7 @@ ul#nav li.current a { color: #F06000; }
 }
 #resume .date {
    font: 15px/24px 'opensans-regular', sans-serif;
-   margin-top: 6px;
+   margin-top: 5px;
 }
 
 
@@ -392,6 +420,12 @@ ul#nav li.current a { color: #F06000; }
   	height: 8px;
    line-height: 8px;
    border-radius: 3px 0 0 3px;
+}
+
+.skills {
+   width: 100%;
+   padding-right: 0;
+
 }
 
 /*
@@ -726,8 +760,8 @@ call-to-action .button {
    overflow: hidden;
 }
 #testimonials .text-container {
-   padding-top: 96px;
-   padding-bottom: 66px;
+   padding-top: 65px;
+   padding-bottom: 65px;
 }
 #testimonials h1 {
    font: 18px/24px 'opensans-bold', sans-serif;
