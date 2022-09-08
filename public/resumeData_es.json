@@ -5,8 +5,10 @@
     "occupation": "desarrolladora de código, italiana y vivo en Alicante (España)",
     "image": "profile-pic.png",
     "bio": [
-      "Soy :  Open Minded   Proactiva  leal y confiable",
-      "Busco un ambiente dinámico que cumpla con los valores en los que más creo: Equipo con meta común, integridad y respeto",
+      "Open Minded, Proactiva, leal; Responsable y llena de alegría y energía que me gusta contagiar allá donde voy, con el deseo constante de aprender y mejorar",
+      "Busco un ambiente dinámico que cumpla con los valores en los que más creo: Equipo con meta común, integridad y respeto, una empresa que me permite aprender y crecer como persona, una empresa con que compartir mi ilusión, conocimiento y experiencia.",
+      "¿Dónde y cómo dentro de unos años? Algo en lo que pienso a menudo. Me asusta un poco porque todavía estaré luchando con proyectos y las entregas 😂 De lo que estoy segura es que seguiré poniendo en todo el esfuerzo por ser la mejor versión de mí misma, por seguir siendo una mujer exitosa y feliz, y lo estaré haciendo con personas que crean en mí y me den la oportunidad de crecer y hacer grandes cosas juntas",
+      
       "Disponible para viajar ocasionalmente",
       " ... ",
       "Nacida julio 1979, casada, 3 hijos y perro",
@@ -122,11 +124,11 @@
     ],
     "skills": [
       {
-        "name": "C++ y C#",
+        "name": "C#, C++",
         "level": "85%"
       },
       {
-        "name": ".NET framework",
+        "name": ".NET framework-WinForms",
         "level": "75%"
       },
       {
@@ -143,6 +145,14 @@
       },
       {
         "name": "SQL databases",
+        "level": "80%"
+      },
+      {
+        "name": "NoSQL databases",
+        "level": "25%"
+      },
+      {
+        "name": "Agile metodologies y Scrum",
         "level": "80%"
       }
     ]

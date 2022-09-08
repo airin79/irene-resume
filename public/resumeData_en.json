@@ -4,9 +4,9 @@
     "occupation": "I'm an italian SW Developer based in Alicante (España)",
     "image": "profile-pic.png",
     "bio": [
-      "I am Open Minded   Proactive   Loyable and Reliable",
-      "I am looking for a dynamic environment that meets the values I believe in the most: TeamWorking & Play to WIN with Integrity & Respect",
-      "Where and How in years from now ? Something I often think about. It scares me a little cos I’ll still be struggling with project timing and deliveries screaming at keyboards and screens 😂 What I am sure of is that I will continue to put in all the effort to be the best version of myself, to keep being a successful and happy woman. And I will be doing this with people that believe in me and give me the opportunity to grow and do great things together ",
+      "Open Minded, Proactive, Loyable; Responsible and full of joy and energy that I like to spread wherever I go, with the constant desire to learn and improve",
+      "I am looking for a dynamic environment that meets the values I believe in the most: TeamWorking & Play to WIN with Integrity & Respect, a company that allows me to improve and grow as a person, to shares my enthusiasm, knowledge and experience",
+      "Where and How in years from now ? Something I often think about. It scares me a little cos I’ll still be struggling with project timing and deliveries 😂 What I am sure of is that I will continue to put in all the effort to be the best version of myself, to keep being a successful and happy woman. And I will be doing this with people that believe in me and give me the opportunity to grow and do great things together ",
            
       "Available to travel occasionally",
       " ... ",
@@ -126,11 +126,11 @@
     ],
     "skills": [
       {
-        "name": "C++ and C#",
+        "name": "C#, C++",
         "level": "85%"
       },
       {
-        "name": ".NET framework",
+        "name": ".NET framework-WinForms",
         "level": "75%"
       },
       {
@@ -147,6 +147,14 @@
       },
       {
         "name": "SQL databases",
+        "level": "80%"
+      },
+      {
+        "name": "NoSQL databases",
+        "level": "25%"
+      },
+      {
+        "name": "Agile metodologies y Scrum",
         "level": "80%"
       }
     ]

@@ -4,8 +4,10 @@
     "occupation": "sviluppatrice di codice italiana che vive in Alicante (España)",
     "image": "profile-pic.png",
     "bio": [
-      "sono Open Minded   Proattiva   Affidabile  Leale",
-      "Sto cercando un ambiente dinamico che rispecchi i valori in cui credo fermamente : TeamWorking & Play to WIN, Integrità & Rispetto",
+      "Open Minded, proattiva, leale; Responsabile e piena di gioia ed energia che mi piace diffondere ovunque io vada, con il desiderio costante di imparare e migliorare",
+      "Sto cercando un ambiente dinamico che rispecchi i valori in cui credo fermamente : TeamWorking & Play to WIN, Integrità & Rispetto, un'azienda che mi permetta di imparare e crescere come persona, un'azienda con cui condividere mio entusiasmo, conoscenza ed esperienza.",
+      "Dove e come tra qualche anno? Qualcosa a cui penso spesso. Mi spaventa un po' perché sarò ancora alle prese con progetti e risultati finali 😂 Quello di cui sono sicura è che continuerò a impegnarmi per essere la versione migliore di me stessa, per continuare ad essere una donna felice e di successo, e lo farò con persone che credono in me offrendomi l'opportunità di crescere e fare grandi cose insieme",
+      
       "Disponibile per viaggi occasionali",
       " ... ",
       "Nata Luglio 1979, sposata, 3 figli e cane",
@@ -115,18 +117,18 @@
         "years": "Settembre 1999 - Marzo 2000",
         "description": ["Assistente personale del direttore e segretaria.", "La mia prima esperienza lavorativa, un piccolo ufficio a conduzione familiare. Ho imparato molto lavorando a contatto con il pubblico, diventando molto scrupolosa e meticolosa fin dall'inizio! Precisione e qualità del lavoro e tempi giusti."],
         "bestaccomplishment": [
-          "Con la mia esperienza informatica e conoscenza dei piu comuni strumenti ed applicazioni SW ho contribuito alla digitalizzazione di questa piccola impresa, automatizzando molti compiti che prima venivano eseguiti manualmente, miglioranto precisione, risultati e diminuendo drasticamente i tempi."
+          "Con la mia esperienza informatica e conoscenza dei piu comuni strumenti ed applicazioni SW ho contribuito alla digitalizzazione di questa piccola impresa, automatizzando molti compiti che prima venivano eseguiti manualmente,migliorando precisione, risultati e diminuendo drasticamente i tempi."
         ]
       }
     ],
     "skillmessage": "Sviluppatrice SW dal 2000 con piu di 20anni di C# C++ .Net in applicazioni desktop stand alone e Microsoft SQL Server databases ed al momento mi sto divertendo con il  WEB con JS React Entity Framework e GraphQL",
     "skills": [
       {
-        "name": "C++ and C#",
+        "name": "C#, C++",
         "level": "85%"
       },
       {
-        "name": ".NET framework",
+        "name": ".NET framework-WinForms",
         "level": "75%"
       },
       {
@@ -143,6 +145,14 @@
       },
       {
         "name": "SQL databases",
+        "level": "80%"
+      },
+      {
+        "name": "NoSQL databases",
+        "level": "25%"
+      },
+      {
+        "name": "Agile metodologies y Scrum",
         "level": "80%"
       }
     ]
